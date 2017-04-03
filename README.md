@@ -17,6 +17,6 @@ Coded in react-native
 * 3/07/17: made all fixed units responsive, added simulated chatbox and further styling
 * 3/02/17: responsive to device dimensions
 
-![alt tag](/Users/jianninetorres/Desktop/Workspace/videochat_ui copy/404705405-Screen Shot 2017-03-08 at 6.58.30 PM.png)
+![Home screen](https://drive.google.com/open?id=0ByNCi85zMQwBdXplZG5BaHVNX00)
 
-![alt tag](/Users/jianninetorres/Desktop/Workspace/videochat_ui copy/1737420018-Screen Shot 2017-03-08 at 6.58.01 PM.png)
+![Chat screen](https://drive.google.com/open?id=0ByNCi85zMQwBeTJwTGhJZnpJX0k)
