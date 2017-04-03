@@ -17,6 +17,6 @@ Coded in react-native
 * 3/07/17: made all fixed units responsive, added simulated chatbox and further styling
 * 3/02/17: responsive to device dimensions
 
-![Home screen](https://drive.google.com/open?id=0ByNCi85zMQwBdXplZG5BaHVNX00)
+![Home screen](https://cloud.githubusercontent.com/assets/13004645/24625697/d743e2e2-187d-11e7-8511-6e5fae7761de.png)
 
-![Chat screen](https://drive.google.com/open?id=0ByNCi85zMQwBeTJwTGhJZnpJX0k)
+![Chat screen](https://cloud.githubusercontent.com/assets/13004645/24625700/d852dcba-187d-11e7-884e-0c8e2244e95f.png)
